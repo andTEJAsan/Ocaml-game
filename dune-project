@@ -5,7 +5,7 @@
 (generate_opam_files true)
 
 (source
- (github andTEJAsan/reponame))
+ (github andTEJAsan/Ocaml-game))
 
 (authors "Author Name")
 
